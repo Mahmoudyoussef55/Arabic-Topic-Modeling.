@@ -1,6 +1,7 @@
 # Arabic-Topic-Modeling.
 
-BERT for Arabic Topic Modeling: An Experimental Study on BERTopic Technique.
+  Arabic topic modeling is the process of identifying and extracting topics or themes from a collection of Arabic text documents. This involves using machine learning algorithms to analyze the patterns and relationships within the text data, in order to automatically categorize the documents into different topics or themes. Arabic topic modeling can be used for a variety of applications, including text classification, sentiment analysis, and content recommendation.
+
 
 
 
